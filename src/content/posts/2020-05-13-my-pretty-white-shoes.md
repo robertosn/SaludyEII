@@ -33,8 +33,7 @@ Somos además conscientes de que existe mucha información publicada que explica
 <div id="mc_embed_signup">
 <form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Q
-uieres saber más? Suscríbete al boletín ACCU </label>
+<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU </label>
 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
