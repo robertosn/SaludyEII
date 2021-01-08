@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: Hablar de la EII
+slug: /hablar-de-la-eii
 date: 2020-12-01 23:40
 description: Hablar del crohn y la colitis ulcerosa 
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
@@ -30,7 +30,7 @@ Si necesitas que alguien te ayude es necesario hablarle de tu enfermedad para qu
 
 Hablar de tu enfermedad ayuda en muchos aspectos: puede servir para desahogarte, para saber que puedes contar con la ayuda que necesitas o para organizar mejor tu día a día. Además, lo más probable es que sientas alivio al no tener que justificarte si en algunos momentos te sientes con menos ganas de socializar o si tienes que cancelar algún plan<sup>3</sup>. Algo fundamental para reducir tus niveles de ansiedad y estrés, así como para mejorar tu calidad de vida y la de las personas que te rodean.
 
-> Hablar de la enfermedad es positivo si se elige bien el momento, las formas y la persona a la que se lo quieres contar. Prepara el momento y evita improvisar.
+> Hablar de la enfermedad es positivo si eliges bien el momento, las formas y la persona a la que se lo quieres contar. Prepara el momento y evita improvisar.
 
 
 ### A la pareja y otros familiares
@@ -83,7 +83,7 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 
 > Para saber qué tipo de medidas se pueden aplicar puedes pedir más información al departamento de recursos humanos o puedes llamarnos [link ACCU] y explicarnos tu caso. En ACCU podemos asesorarte sobre la ley de protección de riesgos laborales, adaptaciones del puesto de trabajo y sobre [cómo solicitar y sacarle el máximo partido al reconocimiento de la discapacidad y a los diferentes tipos de incapacidades](https://accuesp.com/convenio-con-la-consultoria-legal-fidelitis). 
 
-### Referencias
+#### Referencias
 
 <sub> 1. The Crohn’s Colitis Effect. Whoa… should I really be talking about IBD? http://cceffect.org/should-i-really-be-talkingabout-ibd/ [Accessed March 2016].</sub>
 
