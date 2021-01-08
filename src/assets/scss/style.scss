@@ -38,7 +38,20 @@
   }
   a[aria-current="page"] {
     color: rgba(255,255,255,1)
-  }
+	}
+	
+	sup {
+		font-size: 12px;
+		color: gray;
+		top: -.9em;
+		margin-left:-.3em;
+	}
+	
+	sub {
+		font-size: .85em;
+		color: gray;
+	}
+
   .menu-trigger {
     display: none;
     font-size: 24px;
@@ -298,6 +311,7 @@ article img {
 }
 
 // Page
+
 .page,
 .blog-page,
 .contact-page,
