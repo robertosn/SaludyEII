@@ -4,13 +4,11 @@ title: La vida entre brotes
 slug: /la-vida-entre-brotes
 date: 2020-12-01 12:55
 description: How we scaled an Extreme gaming extravaganza
-featuredImage: https://cdn.pixabay.com/photo/2015/03/26/10/07/restaurant-690975_1280.jpg
+featuredImage: /assets/restaurant-690975_1280.jpg
 ---
 # La vida entre brotes
 
 ## Salud y EII: un manual para pacientes
-
-![](https://cdn.pixabay.com/photo/2015/03/26/10/07/restaurant-690975_1280.jpg "comida en grupo")
 
 La enfermedad inflamatoria intestinal (EII) engloba principalmente al Crohn (EC) y a la colitis ulcerosa (UC): dos enfermedades crónicas con síntomas como diarrea, dolor, cansancio, así como problemas en otros órganos como la piel y los ojos. Aunque hay que decir que no los presentan de manera continua a lo largo del tiempo. De hecho, la enfermedad de Crohn y la colitis ulcerosa se caracterizan por intercalar periodos de actividad (brotes) y de inactividad (remisión) que se suceden sin que necesariamente tengamos que parar nuestras vidas. 
 

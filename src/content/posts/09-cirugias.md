@@ -4,14 +4,12 @@ title: Cirugías
 slug: /cirugias
 date: 2019-04-01T00:00:00.000Z
 description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/operation-theatre-555088_1280.jpg
 ---
 
 # Cirugías
 
 ## Qué saber antes de operarse
-
-![](https://cdn.pixabay.com/photo/2014/12/03/06/13/operation-theatre-555088_1280.jpg "quirófano")
 
 La cirugía en crohn y colitis ulcerosa se utiliza especialmente cuando aparecen complicaciones o perdemos respuesta al medicamento pautado. Algo más de la mitad de las personas que sufren EC necesitan someterse a una cirugía a lo largo de su enfermedad. Y a pesar de ser parte integrante del tratamiento no deja de ser un evento estresante que puede alterar (temporalmente) tu equilibrio emocional. 
 

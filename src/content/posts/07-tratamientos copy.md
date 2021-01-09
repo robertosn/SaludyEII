@@ -4,14 +4,12 @@ title: Tratamientos
 slug: /tratamientos
 date: 2019-05-01T00:00:00.000Z
 description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/pharmacy-5268385_1280.jpg
 ---
 
 # Tratamientos
 
 ## Tratamientos aprobados
-
-![](https://cdn.pixabay.com/photo/2020/06/06/21/54/pharmacy-5268385_1280.jpg "farmacia desde fuera")
 
 Si tienes diagnosticada una enfermedad de Crohn o una colitis ulcerosa probablemente ya sabes que son dos patologías sin cura disponible, pero con tratamientos que inducen a la remisión de los síntomas y que nos ayudan a permanezcamos sin ellos. Y que además existen bastantes, aunque cada uno con sus particularidades; así que si necesitas resolver cualquier duda pregunta a tu especialista -o en la farmacia- porque son los profesionales más adecuados para personalizar la información que necesitas. Si no tuvieras acceso a este personal sanitario siempre te queda consultar la web del Centro de Información del Medicamento (CIMA), propiedad de la Agencia Española del Medicamento y Productos Sanitarios (AEMPS).
 

@@ -4,7 +4,7 @@ title: Hablar de la EII
 slug: /hablar-de-la-eii
 date: 2020-11-01 23:40
 description: Hablar del crohn y la colitis ulcerosa 
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/holiday-123849_1280.jpg
 ---
 
 Hablar del crohn o la colitis ulcerosa puede llegar a ser difícil debido a que estas enfermedades presentan síntomas escatológicos como la diarrea y la incontinencia fecal. Y a nadie le hace gracia tener que decirles a otros que si no encuentra un baño en cuestión de segundos terminará liándola parda. Aunque ni siquiera esto es lo único que lo hace complicado. Lo cierto es que también es muy difícil visibilizar lo que no se observa a simple vista, como la fatiga y el dolor. Por mucho que nos afecte. De la misma forma que otras veces ni siquiera lo intentamos por motivos más personales: no querer llamar la atención, evitar ser juzgados o no sentirnos una carga para los demás <sup>1</sup>. Aunque, en este sentido, compartir con otras personas la situación que estamos pasando y el tipo de ayuda que necesitamos (si es que necesitamos alguna) es un elemento diferencial para superar con éxito cualquier adversidad. 

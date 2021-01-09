@@ -4,7 +4,7 @@ title: Viajar con EII
 slug: /plant/bud
 date: 2020-09-01 12:37
 description: consejos para viajar con EII
-featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
+featuredImage: /assets/airport-690556_1280.jpg
 ---
 
 # Viajar con EII
@@ -12,8 +12,6 @@ featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
 ## Dudas: qué saber antes de viajar
 
 Si tienes enfermedad de Crohn (EC) o colitis ulcerosa (CU) la idea de viajar puede resultar estresante: bien porque los síntomas o las complicaciones de la enfermedad pueden hacernos pensar que no podemos viajar... o porque alejarse del entorno con cambios de clima, agua y comida pueden alterar el intestino <sup>1</sup>; tengan o no la enfermedad. Sin embargo, muchas personas con EII viajan regularmente, por España y al extranjero. Y lo hacen planificando todo con detalle y antelación.
-
-![](https://cdn.pixabay.com/photo/2015/03/26/09/54/airport-690556_1280.jpg "listado de vuelos")
 
 Una buena planificación es la clave para reducir el estrés asociado al viaje y minimizar imprevistos que pueden afectar a tu salud. Por esto, queremos darte algunos consejos para que puedas organizar tu viaje y tu estancia lo mejor posible:
 

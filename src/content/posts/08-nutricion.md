@@ -4,13 +4,12 @@ title: Nutrición
 slug: /nutricion
 date: 2019-04-30T00:00:00.000Z
 description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/pear-2228918_1280.jpg
 ---
 
 # Nutrición
 
 ## Dietas
-![](https://cdn.pixabay.com/photo/2017/04/13/23/02/pear-2228918_1280.jpg "pera")
 
 Ninguna dieta causa o cura la enfermedad de Crohn (EC) o la colitis ulcerosa (CU). De la misma manera que tampoco existe una que les vaya bien a todas las personas que padecemos estas enfermedades <sup>1</sup>. Por el contrario, lo normal es que con el tiempo vayas adaptando tu alimentación en base a si te encuentras en remisión (fase sin síntomas) o en brote (periodos con síntomas). En este sentido, incluso te darás cuenta que evitando algunos alimentos lograrás que mejoren algunos síntomas como la diarrea, la distensión abdominal y la malnutrición <sup>2</sup>. Aunque en el caso de que tengas deficiencia en algún nutriente en particular, como vitaminas o minerales, lo mejor es que hables con tu especialista o nutricionista para que te indique si tienes que empezar a tomar algún suplemento concreto <sup>3</sup>.
 

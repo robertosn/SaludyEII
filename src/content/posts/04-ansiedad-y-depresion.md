@@ -4,14 +4,12 @@ title: Ansiedad y depresión
 slug: /ansiedad-y-depresion
 date: 2020-08-01 12:47
 description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+featuredImage: /assets/girl-3709550_1280.jpg
 ---
 
 # Ansiedad y depresión
 
 ## Emociones y EII
-
-![](https://cdn.pixabay.com/photo/2018/09/28/15/41/girl-3709550_1280.jpg "jóven")
 
 Cuando se diagnostica una enfermedad de Crohn (EC) o una colitis ulcerosa (EC) lo más normal es que experimentemos emociones como frustración, rabia, estrés, ansiedad o miedo <sup>1-3</sup>. Es así porque nos comunican que tenemos una patología crónica para la que no hay una cura. Lo que se suma al malestar que arrastramos con esos síntomas previos al diagnóstico que cambiaron por completo nuestras vidas. Y nadie querría sentirse así para siempre. De ahí que esas emociones se repitan casi de manera automática con la aparición de nuevos brotes, al recordarnos el dolor, las dudas sobre qué ocurrirá y a qué tendremos que renunciar, la vuelta a empezar, etc.
 

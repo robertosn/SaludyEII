@@ -4,7 +4,7 @@ title: Deporte y actividad física
 slug: /deporte-y-actividad-fisica
 date: 2020-10-01 12:46
 description: consejos para hacer deporte y actividad física con crohn y colitis ulcerosa
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/yoga-3053488_1280.jpg
 ---
 
 # Deporte y actividad física
@@ -12,8 +12,6 @@ featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ## Información relevante
 
 La enfermedad de Crohn (EC) y la colitis ulcerosa (CU) pueden dificultar la capacidad que tenemos de mantenernos activos, pero con algunas adaptaciones serás capaz de hacer diferentes deportes o tipos de ejercicios. Sin embargo, es importante que aprendas cuáles son las que encajan contigo según el estado de tu enfermedad (activa o en remisión) y los síntomas que estás experimentando. Practicar actividad física mejora la digestión, ayuda a mantener un peso saludable, aporta sensaciones de bienestar y reducir el estrés y la depresión. Es decir, aporta muchos beneficios físicos y psicológicos <sup>1-4</sup>. 
-
-![](https://cdn.pixabay.com/photo/2018/01/01/01/56/yoga-3053488_1280.jpg "Foto de una mujer haciendo Yoga")
 
 Sigue estos consejos para beneficiarte lo máximo posible de la actividad física:
 
