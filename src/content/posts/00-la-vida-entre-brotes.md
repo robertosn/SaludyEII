@@ -2,9 +2,9 @@
 template: blog-post
 title: La vida entre brotes
 slug: /la-vida-entre-brotes
-date: 2020-05-13 12:55
+date: 2020-12-01 12:55
 description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+featuredImage: https://cdn.pixabay.com/photo/2015/03/26/10/07/restaurant-690975_1280.jpg
 ---
 # La vida entre brotes
 

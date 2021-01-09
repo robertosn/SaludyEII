@@ -2,7 +2,7 @@
 template: blog-post
 title: Cirugías
 slug: /cirugias
-date: 2019-07-10T00:00:00.000Z
+date: 2019-04-01T00:00:00.000Z
 description: sdasd
 featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 ---

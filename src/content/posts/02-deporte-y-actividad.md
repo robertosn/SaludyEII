@@ -2,7 +2,7 @@
 template: blog-post
 title: Deporte y actividad física
 slug: /deporte-y-actividad-fisica
-date: 2020-12-01 12:46
+date: 2020-10-01 12:46
 description: consejos para hacer deporte y actividad física con crohn y colitis ulcerosa
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---

@@ -2,7 +2,7 @@
 template: blog-post
 title: Viajar con EII
 slug: /plant/bud
-date: 2020-12-02 12:37
+date: 2020-09-01 12:37
 description: consejos para viajar con EII
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
 ---

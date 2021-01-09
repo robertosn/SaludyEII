@@ -2,7 +2,7 @@
 template: blog-post
 title: Ansiedad y depresión
 slug: /ansiedad-y-depresion
-date: 2020-12-03 12:47
+date: 2020-08-01 12:47
 description: Sesame Momos
 featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
 ---
