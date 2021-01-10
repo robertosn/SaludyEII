@@ -7,10 +7,6 @@ description: Sesame Momos
 featuredImage: /assets/girl-3709550_1280.jpg
 ---
 
-# Ansiedad y depresión
-
-## Emociones y EII
-
 Cuando se diagnostica una enfermedad de Crohn (EC) o una colitis ulcerosa (EC) lo más normal es que experimentemos emociones como frustración, rabia, estrés, ansiedad o miedo <sup>1-3</sup>. Es así porque nos comunican que tenemos una patología crónica para la que no hay una cura. Lo que se suma al malestar que arrastramos con esos síntomas previos al diagnóstico que cambiaron por completo nuestras vidas. Y nadie querría sentirse así para siempre. De ahí que esas emociones se repitan casi de manera automática con la aparición de nuevos brotes, al recordarnos el dolor, las dudas sobre qué ocurrirá y a qué tendremos que renunciar, la vuelta a empezar, etc.
 
 Así que, independientemente de si llevas más o menos tiempo con la enfermedad, si crees que tu calidad de vida puede estar deteriorándose es importante que sepas que estamos aquí para ayudarte. 
@@ -98,28 +94,6 @@ Si tú también te sientes así, debes saber que existen diferentes estrategias 
 - Pide a tu especialista que te derive a un terapeuta. O a tu ACCU que te dé cita con sus profesionales de psicología.
 
 - Habla con tus familiares, amigos o con tu pareja y explícale cómo te sientes para encontrar el apoyo que necesitas. En ACCU también te podemos ayudar a encontrar la mejor forma de comunicar lo que te ocurre.
-
-<p class= "fecha">1 de diciembre 2020</p>
-
-  <!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU </label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
 
 ## Referencias
 

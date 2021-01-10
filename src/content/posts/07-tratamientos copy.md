@@ -7,8 +7,6 @@ description: sdasd
 featuredImage: /assets/pharmacy-5268385_1280.jpg
 ---
 
-# Tratamientos
-
 ## Tratamientos aprobados
 
 Si tienes diagnosticada una enfermedad de Crohn o una colitis ulcerosa probablemente ya sabes que son dos patologías sin cura disponible, pero con tratamientos que inducen a la remisión de los síntomas y que nos ayudan a permanezcamos sin ellos. Y que además existen bastantes, aunque cada uno con sus particularidades; así que si necesitas resolver cualquier duda pregunta a tu especialista -o en la farmacia- porque son los profesionales más adecuados para personalizar la información que necesitas. Si no tuvieras acceso a este personal sanitario siempre te queda consultar la web del Centro de Información del Medicamento (CIMA), propiedad de la Agencia Española del Medicamento y Productos Sanitarios (AEMPS).
@@ -41,26 +39,3 @@ Para finalizar, la explicación de todo lo que debes saber sobre los ensayos cl�
 - [Visitar RECC](https://reec.aemps.es/reec/public/web.html)
 
 - [Visitar EUPATI](https://toolbox.eupati.eu/?lang=es)
-
-
-<p class= "fecha">1 de diciembre 2020</p>
-
-  <!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU </label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>

@@ -4,14 +4,10 @@ title: Fístulas
 slug: /fistulas
 date: 2020-06-01 08:40
 description: Post with no image
-featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
+featuredImage: /assets/pexels-maria-orlova-4916447.jpg
 ---
 
-# Fístulas
-
-## Explicación
-
-Las fístulas son lesiones -que empiezan siendo pequeñas heridas- en zonas como la pared intestinal; y que, al no sanar, terminan erosionando el tejido hasta hacerlas cada vez más grandes y profundas. Al punto de que, con el tiempo, terminan creando una salida por el otro extremo: produciendo así conexiones entre órganos o con el exterior. Exactamente como cuando taladramos una pared y abrimos un agujero en la habitación de al lado.
+Las fístulas son lesiones -que empiezan siendo pequeñas heridas- en zonas como la pared intestinal; y que, al no sanar, terminan erosionando el tejido hasta hacerlas cada vez más grandes y profundas. Al punto de que, con el tiempo, terminan creando una salida por el otro extremo: produciendo así conexiones entre órganos o con el exterior. Un ejemplo similar que nada tiene que ver con la salud sería el de cuando taladramos una pared y abrimos un agujero en la habitación de al lado.
 
 En este video explican las fístulas anales comparándolas con las filtraciones de agua en las paredes de casa. Y se entiende muy bien:
 
@@ -28,25 +24,3 @@ Las fístulas son una complicación frecuente de la enfermedad de Crohn. Tanto q
 Es importante que expliques a tu pareja, a tus familiares o amistades de qué manera las fístulas te afectan en tu día a día y a tu bienestar emocional. Compartir con ellos tu estado de ánimo les a permitirá prestarte un mejor apoyo y te ayudará también a sentirte mejor.
 
 > [Te guíamos para vivir mejor a pesar de las fístulas. Reserva una cita online con un profesional de la enfermería ](https://booking.appointy.com/accuesp?st=428879)
-
-<p class= "fecha">1 de diciembre 2020</p>
-
-  <!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU </label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>

@@ -7,9 +7,6 @@ description: sdasd
 featuredImage: /assets/pear-2228918_1280.jpg
 ---
 
-# Nutrición
-
-## Dietas
 
 Ninguna dieta causa o cura la enfermedad de Crohn (EC) o la colitis ulcerosa (CU). De la misma manera que tampoco existe una que les vaya bien a todas las personas que padecemos estas enfermedades <sup>1</sup>. Por el contrario, lo normal es que con el tiempo vayas adaptando tu alimentación en base a si te encuentras en remisión (fase sin síntomas) o en brote (periodos con síntomas). En este sentido, incluso te darás cuenta que evitando algunos alimentos lograrás que mejoren algunos síntomas como la diarrea, la distensión abdominal y la malnutrición <sup>2</sup>. Aunque en el caso de que tengas deficiencia en algún nutriente en particular, como vitaminas o minerales, lo mejor es que hables con tu especialista o nutricionista para que te indique si tienes que empezar a tomar algún suplemento concreto <sup>3</sup>.
 
@@ -130,29 +127,6 @@ Puedes hacer que algunos cambios en tu dieta mejoren tus síntomas <sup>4</sup>.
   - Toma opas y zumos en vez de (o en medida igual a) té y café.
 
 De todos modos, te animamos a que le comentes a tu especialista-o nutricionista- cualquier cambio en tu dieta para que te aseguren que sigues manteniendo una dieta sana y equilibrada en cada momento.
-
-<p class= "fecha">1 de diciembre 2020</p>
-
-  <!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU </label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
 ## Referencias
 <sub> 1. Owczarek D, et al. Diet and nutritional factors in inflammatory bowel diseases. World J Gastroenterol 2016; 22(3):895–905.</sub>
 

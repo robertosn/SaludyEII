@@ -4,12 +4,8 @@ title: Cirugías
 slug: /cirugias
 date: 2019-04-01T00:00:00.000Z
 description: sdasd
-featuredImage: /assets/operation-theatre-555088_1280.jpg
+featuredImage: /assets/pexels-rodnae-productions-6129689.jpg
 ---
-
-# Cirugías
-
-## Qué saber antes de operarse
 
 La cirugía en crohn y colitis ulcerosa se utiliza especialmente cuando aparecen complicaciones o perdemos respuesta al medicamento pautado. Algo más de la mitad de las personas que sufren EC necesitan someterse a una cirugía a lo largo de su enfermedad. Y a pesar de ser parte integrante del tratamiento no deja de ser un evento estresante que puede alterar (temporalmente) tu equilibrio emocional. 
 
@@ -35,25 +31,3 @@ Preguntas que puedes hacer a tu especialista:
 Además, sería ideal acudir a esta consulta con la persona que será la encargada de recibir la información desde el personal médico después de la operación, y la que te ayudará una vez que regreses a tu domicilio.
 
 > [Llámanos](tel:+34915426326) para que te podamos orientar o [reserva una cita online desde nuestra web para recibir información personalizada ](https://booking.appointy.com/accuesp?st=428879). Nuestra gente te ayudará.
-
-<p class= "fecha">1 de diciembre 2020</p>
-
-  <!-- Begin Mailchimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL">¿Quieres saber más? Suscríbete al boletín ACCU</label>
-<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
