@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: La vida entre brotes
+title: Salud y EII
 tagline: Julio Roldán, presidente de ACCU España
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:

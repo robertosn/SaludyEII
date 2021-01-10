@@ -9,15 +9,15 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "About"
+    title: "ACCU España"
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Artículos"
   },
   {
     path: "/contact",
-    title: "Contact"
+    title: "Contacto"
   },
 ]
 
