@@ -7,10 +7,6 @@ featuredImage: /assets/pexels-andrea-piacquadio-3808017.jpg
 description: metaphorically make a deal with the devil
 ---
 
-# Fatiga
-
-## Qué es la fatiga
-
 La fatiga es uno de los síntomas del crohn y la colitis ulcerosa más comentados en la consulta médica <sup>1-4</sup> porque reduce drásticamente la calidad de vida al limitar la realización de actividades de la vida diaria <sup>5,6</sup>. Es una sensación de cansancio abrumador que no desaparece ni durmiendo ni descansando <sup>7</sup>. Y puede ser física (falta de energía y fuerzas), mental (falta de motivación, concentración o atención), o una combinación de las dos <sup>6</sup>. De ahí que puede que algunos días sientas que te falten energías incluso para hacer las tareas más sencillas. 
 
 En esta sección te queremos ayudar a comprender la fatiga y a combatirla.
