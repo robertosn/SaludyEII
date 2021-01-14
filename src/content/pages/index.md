@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Salud y EII
+title: ¿Te preocupa tu enfermedad?
 tagline: Julio Roldán, presidente de ACCU España
 featuredImage: /assets/julio.jpg
 cta:
