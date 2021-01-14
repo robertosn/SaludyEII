@@ -46,6 +46,7 @@ sub {
     margin-left: 20px;
   }
   a {
+		font-weight: bold;
     color: #e99b2c;
     text-decoration: none;
     &:hover {
@@ -53,7 +54,8 @@ sub {
     }
   }
   a[aria-current="page"] {
-    color: #e99b2c;
+		font-weight: bold;
+		color: #e99b2c;
 	}
 	
 
@@ -62,7 +64,7 @@ sub {
     font-size: 24px;
     background: none;
     border: none;
-    color: white;
+    color: #e99b2c;
     padding: 0;
     cursor: pointer;
 	}
