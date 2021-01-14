@@ -46,14 +46,14 @@ sub {
     margin-left: 20px;
   }
   a {
-    color: rgba(255,255,255,0.6);
+    color: #e99b2c;
     text-decoration: none;
     &:hover {
-      color: rgba(255,255,255,0.8);
+      color: #e99b2c;
     }
   }
   a[aria-current="page"] {
-    color: rgba(255,255,255,1)
+    color: #e99b2c)
 	}
 	
 
@@ -122,7 +122,7 @@ sub {
 	img {
 		max-height: 50px;
 	}
-  
+
   a {
 		font-weight: bolder;
 		color: #e99b2c;
