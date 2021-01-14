@@ -287,8 +287,9 @@ article img {
 	display: inline-flex;
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
-	background-color: var( --button-alternate-color);
-	color: var(--button-color);
+	background-color: #7d3584;
+	color: white;
+	font-weight: bold;
 	border-radius: 12px;
 	text-decoration: none;
 	appearance: none;
