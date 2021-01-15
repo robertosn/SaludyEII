@@ -461,15 +461,20 @@ article img {
 		.num {
 			display: none;
 		}
-
-		.site-logo {
-
-			img {
-				padding-left: 0px; /* esto lo he añadido yo*/
-			}
-		}
 	}
 }
+
+
+// mis cambios: versión móvil 
+
+@media (max-width: 400px) {
+	.site-logo {
+
+		img {
+			padding-left: 0px;
+		}
+	}
+  }
 
 @import "utility";
 
