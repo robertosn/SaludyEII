@@ -39,7 +39,7 @@ sub {
   ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding-right: 40px;
   }
   ul li {
     display: inline-block;
@@ -123,6 +123,7 @@ sub {
 
 	img {
 		max-height: 50px;
+		padding-left: 50px;
 	}
 
   a {
@@ -459,6 +460,13 @@ article img {
 		}
 		.num {
 			display: none;
+		}
+
+		.site-logo {
+
+			img {
+				padding-left: 0px; /* esto lo he añadido yo*/
+			}
 		}
 	}
 }
