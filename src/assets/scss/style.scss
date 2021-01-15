@@ -256,7 +256,7 @@ article figure {
 }
 article blockquote {
 	margin-left: 0;
-	padding: 5px 5px 5px 20px;
+	padding: 5px 25px 5px 25px;
 	background-color: #fce9c9;
 	border-left: 3px solid #f5a623;
 }
@@ -474,10 +474,32 @@ article img {
 			padding-left: 0px;
 		}
 	}
-  }
+	.home-banner {
+	
+		.title {
+			font-size: 38px;
+		}
+	}
+	
+	.post-card .title {
+		font-size: 23px; // los títulos que van en los cuadrados de los artículos
+	}
+
+	.blog-post-content {
+    padding: 0px;
+    font-size: 18px;
+}
+
+	.article blockquote {
+	
+		padding: 5px 5px 5px 5px;
+	
+	}
+}
 
 @import "utility";
 
 // Libraries
 @import "lib/prism-default"
+
 
