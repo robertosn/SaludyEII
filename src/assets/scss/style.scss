@@ -527,7 +527,14 @@ article img {
 	.article-header {
 		padding: 0px 0;
 	}
-} 
+}
+
+#mc_embed_signup label {
+	display: block;
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
 
 
 @import "utility";
