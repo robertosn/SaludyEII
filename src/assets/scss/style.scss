@@ -477,8 +477,16 @@ article img {
 	.home-banner {
 	
 		.title {
-			font-size: 38px;
+			font-size: 32px;
 		}
+	}
+
+	article-header h1 {
+		font-size: 33px !important;
+	}
+
+	h2 {
+		line-height: 41px;
 	}
 	
 	.post-card .title {
@@ -496,7 +504,7 @@ article img {
 
 	.blog-post-content {
     padding: 0px;
-    font-size: 19px;
+    font-size: 21px;
 }
 
 	.article blockquote {
