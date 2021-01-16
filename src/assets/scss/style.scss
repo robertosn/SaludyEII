@@ -8,6 +8,8 @@
 // 	min-height: 100vh;
 // }
 
+// prueba
+
 .primary-container main {
 	min-height: calc(100vh - 60px - 81px);
 }
@@ -32,11 +34,6 @@ sub {
 	font-size: .85em !important;
 	color: gray !important;
 	line-height: 1.2 !important;
-}
-
-article blockquote {
-
-	margin-right:-2.5px;
 }
 
 .site-navigation {
@@ -127,7 +124,7 @@ article blockquote {
 .site-logo {
 
 	img {
-		max-height: 50px;
+		max-height: 50px !important;
 		padding-left: 50px;
 	}
 
