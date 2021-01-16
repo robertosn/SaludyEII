@@ -95,7 +95,7 @@ sub {
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+      background: #f8f5f7;
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -467,7 +467,7 @@ article img {
 
 // mis cambios: versión móvil 
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
 	.site-logo {
 
 		img {
@@ -478,14 +478,17 @@ article img {
 	
 		.title {
 			font-size: 32px;
+			line-height: 41px;
 		}
 	}
 
 	article-header h1 {
 		font-size: 33px !important;
+		line-height: 41px;
 	}
 
 	h2 {
+		font-size: 30px;
 		line-height: 41px;
 	}
 	
