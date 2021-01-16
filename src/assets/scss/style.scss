@@ -34,6 +34,11 @@ sub {
 	line-height: 1.2 !important;
 }
 
+article blockquote {
+
+	margin-right:-2.5px;
+}
+
 .site-navigation {
 
   ul {
@@ -480,7 +485,7 @@ article img {
 	.home-banner {
 	
 		.title {
-			font-size: 36px;
+			font-size: 38px;
 			line-height: 41px;
 		}
 	}
@@ -520,7 +525,6 @@ article img {
 
 	.article blockquote {
 
-	  margin-right: -5px !important;
 		padding: 5px 5px 5px 5px;
 	
 	}
