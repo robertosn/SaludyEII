@@ -228,7 +228,7 @@ sub {
 	margin: 0 auto;
 	
   h1 {
-		// font-size: 48px !important;
+		font-size: 30px !important;
     font-size: clamp(18px, calc(1rem + 2vw), 36px);
     margin: 0 auto 6px;
     max-width: 768px;
@@ -237,7 +237,8 @@ sub {
   }
   time {
     font-size: 14px;
-    color: rgba(0,0,0,0.6)
+		color: rgba(0,0,0,0.6);
+		margin-bottom: 3px;
   }
 }
 @media (max-width: $breakpoint-sm) {
@@ -469,11 +470,6 @@ article img {
 
 @media (max-width: 450px) {
 
-	h1 {
-		font-size: 30px;
-		line-height: 41px;
-	}
-
 	.site-logo {
 
 		img {
@@ -513,7 +509,7 @@ article img {
 
 	.blog-post-content {
     padding: 0px;
-    font-size: 21px;
+    font-size: 20px;
 }
 
 	.article blockquote {
