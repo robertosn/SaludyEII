@@ -479,13 +479,13 @@ article img {
 	.home-banner {
 	
 		.title {
-			font-size: 30px;
+			font-size: 36px;
 			line-height: 41px;
 		}
 	}
 
 	.home-banner .tagline {
-    font-size: 21px;
+    font-size: 17px !important;
     margin-top: 2px;
     color: #646464;
 }
@@ -519,7 +519,7 @@ article img {
 
 	.article blockquote {
 
-	  margin-right: -5px;
+	  margin-right: -5px !important;
 		padding: 5px 5px 5px 5px;
 	
 	}
