@@ -482,7 +482,7 @@ article img {
 		}
 	}
 
-	article-header h1 {
+	h1 {
 		font-size: 33px !important;
 		line-height: 41px;
 	}
@@ -491,9 +491,13 @@ article img {
 		font-size: 30px;
 		line-height: 41px;
 	}
+
+	.article-header time {
+    margin-bottom: 3px;
+}
 	
 	.post-card .title {
-		font-size: 23px; // los títulos que van en los cuadrados de los artículos
+		font-size: 24px; // los títulos que van en los cuadrados de los artículos
 	}
 
 	.page,
