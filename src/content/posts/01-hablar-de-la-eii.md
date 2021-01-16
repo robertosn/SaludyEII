@@ -83,6 +83,27 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 
 > Para saber qué tipo de medidas se pueden aplicar puedes pedir más información al departamento de recursos humanos o puedes llamarnos [link ACCU] y explicarnos tu caso. En ACCU podemos asesorarte sobre la ley de protección de riesgos laborales, adaptaciones del puesto de trabajo y sobre [cómo solicitar y sacarle el máximo partido al reconocimiento de la discapacidad y a los diferentes tipos de incapacidades](https://accuesp.com/convenio-con-la-consultoria-legal-fidelitis). 
 
+
+  <!-- Begin Mailchimp Signup Form -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">¿Te gustó? Lee más en el boletín de ACCU </label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
 #### Referencias
 
 <sub> 1. The Crohn’s Colitis Effect. Whoa… should I really be talking about IBD? http://cceffect.org/should-i-really-be-talkingabout-ibd/ [Accessed March 2016].</sub>
