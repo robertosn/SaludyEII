@@ -111,7 +111,14 @@ sub {
     }
     a:hover {
       background-color: #29121D;
-    }
+		}
+		
+		.article-header {
+		
+			h1 {
+				font-size: 46px;
+			}
+		
   }
 }
 .container {
@@ -486,7 +493,7 @@ article img {
 	}
 
 	.home-banner .tagline {
-    font-size: 17px !important;
+    font-size: 16px !important;
     margin-top: 2px;
     color: #646464;
 }
