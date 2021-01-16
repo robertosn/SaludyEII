@@ -228,7 +228,7 @@ sub {
 	margin: 0 auto;
 	
   h1 {
-		font-size: 48px !important;
+		// font-size: 48px !important;
     font-size: clamp(18px, calc(1rem + 2vw), 36px);
     margin: 0 auto 6px;
     max-width: 768px;
@@ -470,7 +470,7 @@ article img {
 @media (max-width: 450px) {
 
 	h1 {
-		font-size: 33px !important;
+		font-size: 30px;
 		line-height: 41px;
 	}
 
@@ -483,14 +483,14 @@ article img {
 	.home-banner {
 	
 		.title {
-			font-size: 32px;
+			font-size: 30px;
 			line-height: 41px;
 		}
 	}
 	
 
 	h2 {
-		font-size: 30px;
+		font-size: 28px;
 		line-height: 41px;
 	}
 
