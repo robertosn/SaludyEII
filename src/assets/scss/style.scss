@@ -468,6 +468,12 @@ article img {
 // mis cambios: versión móvil 
 
 @media (max-width: 450px) {
+
+	h1 {
+		font-size: 33px !important;
+		line-height: 41px;
+	}
+
 	.site-logo {
 
 		img {
@@ -481,11 +487,7 @@ article img {
 			line-height: 41px;
 		}
 	}
-
-	h1 {
-		font-size: 33px !important;
-		line-height: 41px;
-	}
+	
 
 	h2 {
 		font-size: 30px;
@@ -522,7 +524,8 @@ article img {
 	.article-header {
 		padding: 0px 0;
 	}
-}
+} 
+
 
 @import "utility";
 
