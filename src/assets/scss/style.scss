@@ -228,7 +228,7 @@ sub {
 	margin: 0 auto;
 	
   h1 {
-		font-size: 30px !important;
+		font-size: 31px !important;
     font-size: clamp(18px, calc(1rem + 2vw), 36px);
     margin: 0 auto 6px;
     max-width: 768px;
@@ -518,8 +518,8 @@ article img {
 }
 
 	.article blockquote {
-		
-	  margin-right: -3px;
+
+	  margin-right: -5px;
 		padding: 5px 5px 5px 5px;
 	
 	}
