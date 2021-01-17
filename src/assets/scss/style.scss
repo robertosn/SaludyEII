@@ -39,7 +39,8 @@ sub {
   ul {
     list-style: none;
     margin: 0;
-    padding-right: 40px;
+    padding-right: 150px;
+		padding-left: 150px;
   }
   ul li {
     display: inline-block;
@@ -61,7 +62,7 @@ sub {
 
   .menu-trigger {
     display: none;
-    font-size: 24px;
+    font-size: 32px;
     background: none;
     border: none;
     color: #e99b2c;
