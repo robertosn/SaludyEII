@@ -119,6 +119,7 @@ Algunos medicamentos inmunosupresores, como la azatioprina o los biológicos, ca
 
 Para evitar la deshidratación bebe mucha agua o suero oral. Los signos de deshidratación incluyen: sed, orina oscura y poco frecuente, dolor de cabeza y apatía<sup>1</sup>.
 
+
   <!-- Begin Mailchimp Signup Form -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

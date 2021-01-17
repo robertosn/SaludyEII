@@ -15,10 +15,15 @@ const MenuItems = [
     path: "/blog",
     title: "Artículos"
   },
+
+  {
+    path: "/consultorio",
+    title: "Consultorio"
+  },
   {
     path: "/contact",
     title: "Contacto"
-  },
+  }
 ]
 
 const ListLink = (props) => (<li><Link to={props.to}>{props.children}</Link></li>)

@@ -54,7 +54,7 @@ Intenta entrenar en un sitio que tenga fácil acceso a un baño cercano antes de
 - Evita practicar ejercicios en horarios o ambientes cálidos, porque puede empeorar la deshidratación.
 
 
-  <!-- Begin Mailchimp Signup Form -->
+<!-- Begin Mailchimp Signup Form -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

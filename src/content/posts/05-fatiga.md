@@ -82,6 +82,7 @@ El estrés tiene consecuencias negativas en el bienestar emocional y la fatiga. 
 > [Llámanos](tel:+34915426326) para que te podamos guiar o [reserva una cita online desde nuestra web](https://booking.appointy.com/accuesp?st=428879). Nuestra gente te ayudará.
 
 
+
   <!-- Begin Mailchimp Signup Form -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
@@ -102,7 +103,7 @@ El estrés tiene consecuencias negativas en el bienestar emocional y la fatiga. 
 </form>
 </div>
 
-## Referencias
+### Referencias
 
 <sub> 1. Grimstad T, Norheim KB. Fatigue in inflammatory bowel disease. Tidsskr Nor Laegeforen. 2016 Nov;136(20):1721-1724. doi: 10.4045/tidsskr.16.0134. eCollection 2016 Nov. Review. PubMed PMID: 27830906 </sub>
 
