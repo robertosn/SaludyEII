@@ -99,7 +99,7 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 <input type="email" style="font-size: 19px; padding: 0 0.6em; min-height: 42px;" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="tu email" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" style="background-color: #7d3584 !important; font-size: 17px; min-height: 32px;padding: 2px;marging-top: 1%;"value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" style="background-color: #7d3584 !important; font-size: 17px; min-height: 40px !important;padding: 2px;marging-top: 1%;"value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
