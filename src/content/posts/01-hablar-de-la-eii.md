@@ -92,8 +92,8 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup" style="padding: 25px 0px 3%;">
-<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup">
+<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" style="padding: 25px 0px 3%;" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 <label for="mce-EMAIL" style="font-size: 20px;">¿Te gustó? Lee más en el boletín de ACCU </label>
 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="tu email" required>
