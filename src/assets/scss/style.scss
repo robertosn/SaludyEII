@@ -62,7 +62,7 @@ sub {
 
   .menu-trigger {
     display: none;
-    font-size: 32px;
+    font-size: 28px;
     background: none;
     border: none;
     color: #e99b2c;
@@ -512,6 +512,16 @@ article img {
 .not-found-page {
 	padding: 0px 20px;
 
+}
+
+.site-navigation {
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding-right: 0px;
+		padding-left: 1%;
+	}
 }
 
 	.blog-post-content {
