@@ -95,6 +95,28 @@ Si tú también te sientes así, debes saber que existen diferentes estrategias 
 
 - Habla con tus familiares, amigos o con tu pareja y explícale cómo te sientes para encontrar el apoyo que necesitas. En ACCU también te podemos ayudar a encontrar la mejor forma de comunicar lo que te ocurre.
 
+
+
+  <!-- Begin Mailchimp Signup Form -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" style="padding: 5% 0px 3%;" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL" style="font-size: 21px;">¿Te gustó? Lee más en el boletín de ACCU </label>
+<input type="email" style="font-size: 19px; padding: 0 0.6em; min-height: 42px;" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="tu email" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" style="background-color: #7d3584 !important; font-size: 17px; min-height: 40px !important;padding: 2px;marging-top: 1%;"value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
 ## Referencias
 
 <sub> 1.	Keeton RL, et al. Concerns and worries in people living with inflammatory bowel disease (IBD): A mixed methods study. J Psychosom Res 2015; 78(6):573–8. </sub>
