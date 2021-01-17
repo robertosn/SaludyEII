@@ -95,11 +95,11 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 <div id="mc_embed_signup">
 <form action="https://accuesp.us12.list-manage.com/subscribe/post?u=924f0f9e69877235b6063654f&amp;id=b07eee52b9" method="post" id="mc-embedded-subscribe-form" style="padding: 5% 0px 3%;" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<label for="mce-EMAIL" style="font-size: 20px;">¿Te gustó? Lee más en el boletín de ACCU </label>
-<input type="email" style="font-size: 18px; padding: 0 0.6em; min-height: 40px;" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="tu email" required>
+<label for="mce-EMAIL" style="font-size: 21px;">¿Te gustó? Lee más en el boletín de ACCU </label>
+<input type="email" style="font-size: 19px; padding: 0 0.6em; min-height: 42px;" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="tu email" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_924f0f9e69877235b6063654f_b07eee52b9" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" style="background-color: #7d3584 !important; font-size: 17px; min-height: 32px;padding: 2px;marging-top: 1%;"value="Subscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
