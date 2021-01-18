@@ -2,7 +2,7 @@
 template: blog-post
 title: La vida entre brotes
 slug: /la-vida-entre-brotes
-date: 2020-12-01 12:55
+date: 2020-04-01 12:55
 description: How we scaled an Extreme gaming extravaganza
 featuredImage: /assets/restaurant-690975_1280.jpg
 ---

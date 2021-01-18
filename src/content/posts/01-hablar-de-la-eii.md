@@ -2,7 +2,7 @@
 template: blog-post
 title: Hablar de la EII
 slug: /hablar-de-la-eii
-date: 2020-11-01 23:40
+date: 2020-05-01 23:40
 description: Hablar del crohn y la colitis ulcerosa 
 featuredImage: /assets/holiday-123849_1280.jpg
 ---

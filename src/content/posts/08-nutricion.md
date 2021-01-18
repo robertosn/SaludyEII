@@ -2,7 +2,7 @@
 template: blog-post
 title: Nutrición
 slug: /nutricion
-date: 2019-04-30T00:00:00.000Z
+date: 2019-12-01T00:00:00.000Z
 description: sdasd
 featuredImage: /assets/pear-2228918_1280.jpg
 ---
