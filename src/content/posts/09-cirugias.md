@@ -2,7 +2,7 @@
 template: blog-post
 title: Cirugías
 slug: /cirugias
-date: 2019-09-15T00:00:00.000Z
+date: 2020-09-15T00:00:00.000Z
 description: sdasd
 featuredImage: /assets/pexels-rodnae-productions-6129689.jpg
 ---
