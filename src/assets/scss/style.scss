@@ -229,7 +229,7 @@ sub {
 	margin: 0 auto;
 	
   h1 {
-		font-size: 46px !important;
+		font-size: 46px;
     font-size: clamp(18px, calc(1rem + 2vw), 36px);
     margin: 0 auto 6px;
     max-width: 768px;

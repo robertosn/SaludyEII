@@ -45,7 +45,7 @@ Esto suele pasar porque la EII afecta también al entorno<sup>2</sup>. Así que 
 
 No hay una respuesta correcta a la pregunta ¿deberías hablar a tus hijos e hijas del crohn o colitis ulcerosa? Si tu enfermedad no es grave y tus síntomas se mantienen controlados, puedes elegir no decirles nada si piensas que podrían asustarse. Sin embargo, en otras situaciones es mejor abrirte para que podáis afrontar las dificultades en familia. Eso sí, si decides hacerlo adapta la explicación de la enfermedad a su edad. Aunque independientemente de los años que tengan asegúrate de transmitir tranquilidad cuando se lo cuentes<sup>6</sup>.
 
-Explicar qué es tener una EII a niñas y niños pequeños no es fácil y les puede asustar, mientras que la mayoría de ellos entiende el concepto “mamá/papá no se encuentra muy bien” o “a mama/papá le duele la barriga” sup>6</sup>.  
+Explicar qué es tener una EII a niñas y niños pequeños no es fácil y les puede asustar, mientras que la mayoría de ellos entiende el concepto “mamá/papá no se encuentra muy bien” o “a mama/papá le duele la barriga” <sup>6</sup>.  
 
 Por otro lado, los niños y niñas mayores entenderán más sobre la enfermedad y cómo te afecta <sup>6</sup> Quizás también te harán preguntas. Puedes encontrar algunas explicaciones simplificadas de la enfermedad de Crohn y la colitis ulcerosa en la página web de [ACCU España](https://accuesp.com/hablar-con-tus-hijos-sobre-la-eii)<sup>7</sup>.
 
