@@ -229,8 +229,7 @@ sub {
 	margin: 0 auto;
 	
   h1 {
-		font-size: 46px;
-    font-size: clamp(18px, calc(1rem + 2vw), 36px);
+    font-size: clamp(18px, calc(1rem + 2vw), 46px);
     margin: 0 auto 6px;
     max-width: 768px;
     line-height: 1.3;
@@ -526,7 +525,11 @@ article img {
 
 	.blog-post-content {
     padding: 0px;
-    font-size: 20px;
+		font-size: 20px;
+		
+		h3 {
+			line-height: 1.2;
+		}
 }
 
 	.article blockquote {
