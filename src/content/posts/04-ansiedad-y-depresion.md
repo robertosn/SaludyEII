@@ -47,7 +47,7 @@ Si notas algunos de estos síntomas, o sientes que tu situación es agobiante y 
 
 ### Cambia tu estado emocional
 
-Es importante que aprendas a trabajar en tu bienestar emocional independientemente de la ayuda que puedas recibir. Sabemos que no es fácil, sobre todo cuando la enfermedad está activa, nnadie entiende lo que estás pasando y la situación te supera. Sin embargo, la ayuda que conseguirás no será realmente útil si primero no logras conseguir una actitud que juegue a tu favor. Empieza siguiendo algunos de estos consejos, y ten paciencia, porque este proceso puede ser lento:
+Es importante que aprendas a trabajar en tu bienestar emocional independientemente de la ayuda que puedas recibir. Sabemos que no es fácil, sobre todo cuando la enfermedad está activa, nadie entiende lo que estás pasando y la situación te supera. Sin embargo, la ayuda que conseguirás no será realmente útil si primero no logras conseguir una actitud que juegue a tu favor. Empieza siguiendo algunos de estos consejos, y ten paciencia, porque este proceso puede ser lento:
 
 - Intenta pensar positivamente y focalízate en lo que sabes y puedes hacer, en vez de centrarte en lo que no sabes o no puedes hacer <sup>14,15</sup>.
 

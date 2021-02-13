@@ -39,7 +39,7 @@ Acudir a tu pareja u otros familiares puede ser beneficioso tanto para ti como p
 
 Esto suele pasar porque la EII afecta también al entorno<sup>2</sup>. Así que es importante que participéis conjuntamente en la toma de decisiones y qué compartáis la información. Incluso podría llegar a ser necesario redefinir los roles que jugáis cada quién de manera temporal o permanente ya que no solo tú tienes que hacer algunos sacrificios y adaptarte a convivir con la enfermedad. Por ejemplo, en algunos momentos, debido a tus síntomas, ingresos hospitalarios o cirugías, es posible que no puedas trabajar, contribuir a las tareas de casa, o participar en algunas actividades que ya estaban programadas. Estas situaciones pueden suponer un impacto emocional, social y económico para ti y tu familia y causar sentimientos de rabia y frustración. 
 
-> ¿Sabías que ACCU tiene actividades y servicios con los que aprender a anticiparnos y resolver estas situaciones antes incluso de que ocurran? [Llámanos](tel:+34915426326) para que te podamos dar más información o [reserva una cita online desde nuestra web](https://booking.appointy.com/accuesp?st=428879). Nuestra gente te ayudará.
+> ¿Sabías que ACCU tiene actividades y servicios con los que aprender a anticiparnos y resolver estas situaciones antes incluso de que ocurran? [Llámanos](tel:+34915426326) para que te podamos dar más información o [pídenos una cita online desde nuestro formulario de contacto](/contact). Nuestra gente te ayudará.
 
 ### A los hijos, a las hijas
 

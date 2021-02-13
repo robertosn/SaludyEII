@@ -79,7 +79,7 @@ Si ya has intentado algunas de estas estrategias y crees que necesitas ayuda pro
 
 El estrés tiene consecuencias negativas en el bienestar emocional y la fatiga. En ACCU hay profesionales de la psicología que pueden ayudarte a manejar el estrés a través de la terapia cognitivo conductual (TCC), enfocada en tu capacidad de enfrentarte a la enfermedad y reducir la fatiga.
 
-> [Llámanos](tel:+34915426326) para que te podamos guiar o [reserva una cita online desde nuestra web](https://booking.appointy.com/accuesp?st=428879). Nuestra gente te ayudará.
+> [Llámanos](tel:+34915426326) para que te podamos guiar o [reserva una cita online desde nuestro formulario de contacto en esta web](/contact). Nuestra gente te ayudará.
 
 
 
