@@ -6,10 +6,20 @@ date: 2020-10-01 08:40
 description: Fístulas y EII. 
 featuredImage: /assets/pexels-maria-orlova-4916447.jpg
 ---
+## Las fístulas
 
-Las fístulas son lesiones -que empiezan siendo pequeñas heridas- en zonas como la pared intestinal; y que, al no sanar, terminan erosionando el tejido hasta hacerlas cada vez más grandes y profundas. Al punto de que, con el tiempo, terminan creando una salida por el otro extremo: produciendo así conexiones entre órganos o con el exterior. Un ejemplo similar que nada tiene que ver con la salud sería el de cuando taladramos una pared y abrimos un agujero en la habitación de al lado.
+Las fístulas son lesiones -que empiezan siendo pequeñas heridas- en zonas como la pared intestinal; y que, al no sanar, terminan erosionando el tejido hasta hacerlas cada vez más grandes y profundas. Al punto de que, con el tiempo, terminan creando una salida por el otro extremo.
 
-En este video explican las fístulas anales comparándolas con las filtraciones de agua en las paredes de casa. Y se entiende muy bien:
+Las fístulas son una complicación frecuente de la enfermedad de Crohn y hasta un 50% de los pacientes de crohn pueden desarrollarlas a lo largo de su enfermedad<sup>1</sup>. Aun así no son todas iguales. En este sentido, las fístulas perianales en la enfermedad de Crohn, que son las más frecuentes, se consideran a su vez como simples o complejas. 
+
+Tras el diagnóstico, la naturaleza de los síntomas, el curso de la enfermedad y el tratamiento administrado determina cómo es las experiencia con las fístulas<sup>2</sup>. Aunque este último aspecto varía en base a la clasificación y gravedad de las fístulas<sup>3</sup>. No obstante, independientemente del resultado y del momento en el que se se produzca, hay que reconocer que las fístulas perianales tienen un gran impacto en nuestras vidas y que afectan negativamente a las relaciones íntimas, a las familiares y, también, a las sociales; lo que provoca una pérdida de oportunidades en las diferentes ámbitos personales y laborales<sup>4</sup>.   
+
+Un aspecto positivo es que algunos factores pueden influir en la forma en la que percibes tu situación con las fístulas: información correcta y tu respuesta al diagnóstico. Tu equipo sanitario de confianza, los grupos de apoyo, como los que existen en las asociaciones ACCU, y las fuentes de información online, como esta web, suelen ayudar a generar una experiencia positiva.<sup>2</sup>. 
+
+> [Te guíamos para vivir mejor a pesar de las fístulas. Reserva una cita online con un profesional de la enfermería. Déjanos un mensaje en este formulario y te lo gestionamos](/contact)
+
+
+## Qué son
 
 <div class="container_para_appointy" >
 
@@ -17,17 +27,7 @@ En este video explican las fístulas anales comparándolas con las filtraciones 
 
 </div>
 
-## Prevalencia e impacto
-
-Las fístulas son una complicación frecuente de la enfermedad de Crohn. Tanto que un 33% de los pacientes las desarrollan a lo largo de su enfermedad. Sin embargo, no es nada sencillo hablar de ellas y, por ende, hacerle ver a los demás que vivir con ellas puede ser una odisea. Y esto es un problema. Entre otras cosas porque las fístulas son extremadamente dolorosas y terminan limitando la vida diaria de quienes las padecemos: lo que nos obliga necesariamente a que otros comprendan exactamente en qué situación nos encontramos y la ayuda que podríamos necesitar. 
-
-Es importante que expliques a tu pareja, a tus familiares o amistades de qué manera las fístulas te afectan en tu día a día y a tu bienestar emocional. Compartir con ellos tu estado de ánimo les a permitirá prestarte un mejor apoyo y te ayudará también a sentirte mejor.
-
-> [Te guíamos para vivir mejor a pesar de las fístulas. Reserva una cita online con un profesional de la enfermería ](https://booking.appointy.com/accuesp?st=428879)
-
-
-
-  <!-- Begin Mailchimp Signup Form -->
+ <!-- Begin Mailchimp Signup Form -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -46,3 +46,15 @@ Es importante que expliques a tu pareja, a tus familiares o amistades de qué ma
     </div>
 </form>
 </div>
+
+## Referencias
+
+1. Eglinton TW, Barclay ML, Gearry RB, Frizelle FA. The spectrum of perianal Crohn’s disease in a population-based cohort. Dis Colon Rectum. 2012;55:773–7.
+
+2. Adegbola SO, Dibley L, Sahnan K, Wade T, Verjee A, Sawyer R, Mannick S, McCluskey D, Yassin N, Phillips RKS, Tozer PJ, Norton C, Hart AL. Burden of disease and adaptation to life in patients with Crohn's perianal fistula: a qualitative exploration. Health Qual Life Outcomes. 2020 Nov 20;18(1):370. doi: 10.1186/s12955-020-01622-7. PMID: 33218361; PMCID: PMC7678264.
+
+3. Gecse KB, Bemelman W, Kamm MA, Stoker J, Khanna R, Ng SC, Panés J, van Assche G, Liu Z, Hart A, Levesque BG, D'Haens G, World Gastroenterology Organization, International Organisation for Inflammatory Bowel Diseases IOIBD, European Society of Coloproctology and Robarts Clinical Trials., World Gastroenterology Organization International Organisation for Inflammatory Bowel Diseases IOIBD European Society of Coloproctology and Robarts Clinical Trials. Gut. 2014 Sep; 63(9):1381-92.
+
+4. Adegbola S, Dibley L, Sahnan K, et al. N001 Developing a quality of life score for Crohn’s anal fistula (CAF-QoL). J Crohn’s Colitis 2018;12:S568.
+
+ 

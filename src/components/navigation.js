@@ -15,11 +15,14 @@ const MenuItems = [
     path: "/blog",
     title: "Artículos"
   },
-
+/*
   {
     path: "/consultorio",
     title: "Consultorio"
   },
+
+  */
+
   {
     path: "/contact",
     title: "Contacto"
