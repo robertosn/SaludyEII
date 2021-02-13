@@ -49,12 +49,12 @@ Un aspecto positivo es que algunos factores pueden influir en la forma en la que
 
 ## Referencias
 
-1. Eglinton TW, Barclay ML, Gearry RB, Frizelle FA. The spectrum of perianal Crohn’s disease in a population-based cohort. Dis Colon Rectum. 2012;55:773–7.
+<sub>1. Eglinton TW, Barclay ML, Gearry RB, Frizelle FA. The spectrum of perianal Crohn’s disease in a population-based cohort. Dis Colon Rectum. 2012;55:773–7.</sub>
 
-2. Adegbola SO, Dibley L, Sahnan K, Wade T, Verjee A, Sawyer R, Mannick S, McCluskey D, Yassin N, Phillips RKS, Tozer PJ, Norton C, Hart AL. Burden of disease and adaptation to life in patients with Crohn's perianal fistula: a qualitative exploration. Health Qual Life Outcomes. 2020 Nov 20;18(1):370. doi: 10.1186/s12955-020-01622-7. PMID: 33218361; PMCID: PMC7678264.
+<sub>2. Adegbola SO, Dibley L, Sahnan K, Wade T, Verjee A, Sawyer R, Mannick S, McCluskey D, Yassin N, Phillips RKS, Tozer PJ, Norton C, Hart AL. Burden of disease and adaptation to life in patients with Crohn's perianal fistula: a qualitative exploration. Health Qual Life Outcomes. 2020 Nov 20;18(1):370. doi: 10.1186/s12955-020-01622-7. PMID: 33218361; PMCID: PMC7678264.</sub>
 
-3. Gecse KB, Bemelman W, Kamm MA, Stoker J, Khanna R, Ng SC, Panés J, van Assche G, Liu Z, Hart A, Levesque BG, D'Haens G, World Gastroenterology Organization, International Organisation for Inflammatory Bowel Diseases IOIBD, European Society of Coloproctology and Robarts Clinical Trials., World Gastroenterology Organization International Organisation for Inflammatory Bowel Diseases IOIBD European Society of Coloproctology and Robarts Clinical Trials. Gut. 2014 Sep; 63(9):1381-92.
+<sub>3. Gecse KB, Bemelman W, Kamm MA, Stoker J, Khanna R, Ng SC, Panés J, van Assche G, Liu Z, Hart A, Levesque BG, D'Haens G, World Gastroenterology Organization, International Organisation for Inflammatory Bowel Diseases IOIBD, European Society of Coloproctology and Robarts Clinical Trials., World Gastroenterology Organization International Organisation for Inflammatory Bowel Diseases IOIBD European Society of Coloproctology and Robarts Clinical Trials. Gut. 2014 Sep; 63(9):1381-92.</sub>
 
-4. Adegbola S, Dibley L, Sahnan K, et al. N001 Developing a quality of life score for Crohn’s anal fistula (CAF-QoL). J Crohn’s Colitis 2018;12:S568.
+<sub>4. Adegbola S, Dibley L, Sahnan K, et al. N001 Developing a quality of life score for Crohn’s anal fistula (CAF-QoL). J Crohn’s Colitis 2018;12:S568.</sub>
 
  
