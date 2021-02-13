@@ -1,9 +1,9 @@
 ---
-template: blog-post
+template: 
 title: Cirugías
-slug: /cirugias
-date: 2020-09-15T00:00:00.000Z
-description: sdasd
+slug: 
+date: 
+description: s
 featuredImage: /assets/pexels-rodnae-productions-6129689.jpg
 ---
 
