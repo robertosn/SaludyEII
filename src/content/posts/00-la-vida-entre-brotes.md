@@ -3,7 +3,7 @@ template: blog-post
 title: La vida entre brotes
 slug: /la-vida-entre-brotes
 date: 2020-04-01 12:55
-description: How we scaled an Extreme gaming extravaganza
+description: Introducción de Julio Roldán a Salud y EII
 featuredImage: /assets/restaurant-690975_1280.jpg
 ---
 
@@ -15,7 +15,9 @@ La enfermedad inflamatoria intestinal (EII) engloba principalmente al Crohn (EC)
 
 ### ¿Por qué podríamos llegar a necesitar ayuda?
 
-Esta es una pregunta compleja. La duración, intensidad y evolución de los síntomas permite clasificar estas enfermedades en tres categorías con las que se establecen las indicaciones de los tratamientos: leve, moderada y grave. Sin embargo, no se terminan de conocer las causas que original la EII y el por qué se manifiesta de forma tan diferente entre los pacientes: lo que dificulta hacer predicciones sobre su evolución en una persona concreta y especialmente en las decisiones que se deben tomar para lograr mantenerlas a raya en cada situación. Y, aunque se sospecha que hay factores ambientales, una predisposición genética o que incluso la microbiota puedan estar jugando un papel muy relevante, seguimos sin conocer aspectos como, por ejemplo, por qué algunos de nosotros respondemos a los tratamientos mientras que otros no. La buena noticia es que existe la [iniciativa 3TR](https://www.3tr-imi.eu/) con la que se pretende resolver esta cuestión y poder ofrecer pruebas científicas para la selección de tratamientos en lugar de seguir el enfoque tradicional de ensayo y error. Además, en el momento de escribirse estas líneas ACCU había sido ya oficialmente invitada a colaborar en ella. Si bien, a pesar de las bondades que nos aportará, los resultados serán a largo plazo, por lo que resulta de utilidad recordar que, independientemente del tipo de enfermedad que tengamos (leve en muchos de los casos) tanto el crohn como la colitis tienen la capacidad de hacer mucho daño y reducir drásticamente nuestra calidad de vida. De ahí que no podamos confiarnos ya que las dos siguen siendo imprevisibles y traicioneras.
+Esta es una pregunta compleja. La duración, intensidad y evolución de los síntomas permite clasificar estas enfermedades en tres categorías con las que se establecen las indicaciones de los tratamientos: leve, moderada y grave. Sin embargo, no se terminan de conocer las causas que original la EII y el por qué se manifiesta de forma tan diferente entre los pacientes: lo que dificulta hacer predicciones sobre su evolución en una persona concreta y especialmente en las decisiones que se deben tomar para lograr mantenerlas a raya en cada situación. Y, aunque se sospecha que hay factores ambientales, una predisposición genética o que incluso la microbiota puedan estar jugando un papel muy relevante, seguimos sin conocer aspectos como, por ejemplo, por qué algunos de nosotros respondemos a los tratamientos mientras que otros no. 
+
+La buena noticia es que existe la [iniciativa 3TR](https://www.3tr-imi.eu/) con la que se pretende resolver esta cuestión y poder ofrecer pruebas científicas para la selección de tratamientos en lugar de seguir el enfoque tradicional de ensayo y error. Además, en el momento de escribirse estas líneas ACCU había sido ya oficialmente invitada a colaborar en ella. Si bien, a pesar de las bondades que nos aportará, los resultados serán a largo plazo, por lo que resulta de utilidad recordar que, independientemente del tipo de enfermedad que tengamos (leve en muchos de los casos) tanto el crohn como la colitis tienen la capacidad de hacer mucho daño y reducir drásticamente nuestra calidad de vida. De ahí que no podamos confiarnos ya que las dos siguen siendo imprevisibles y traicioneras.
 
 ### "Salud y EII" es lo que necesitas
 

@@ -3,7 +3,7 @@ template: blog-post
 title: Fístulas
 slug: /fistulas
 date: 2020-10-01 08:40
-description: Post with no image
+description: Fístulas y EII. 
 featuredImage: /assets/pexels-maria-orlova-4916447.jpg
 ---
 

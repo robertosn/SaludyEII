@@ -3,7 +3,7 @@ template: blog-post
 title: Ansiedad y depresión
 slug: /ansiedad-y-depresion
 date: 2020-08-01 12:47
-description: Sesame Momos
+description: Consejos para comprender y superar la ansiedad y la depresión
 featuredImage: /assets/girl-3709550_1280.jpg
 ---
 

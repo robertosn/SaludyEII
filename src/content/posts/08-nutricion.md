@@ -3,7 +3,7 @@ template: blog-post
 title: Nutrición
 slug: /nutricion
 date: 2020-12-01T00:00:00.000Z
-description: sdasd
+description: La nutrición y la EII
 featuredImage: /assets/pear-2228918_1280.jpg
 ---
 
