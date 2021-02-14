@@ -52,7 +52,7 @@ Por otro lado, los niños y niñas mayores entenderán más sobre la enfermedad 
 Durante un brote o en los días en los que sientes que tienes pocas energías, intenta hacer actividades tranquilas con ellos como dibujar, pintar o jugar a juegos de mesa. Si sientes que no tienes fuerzas, pide ayuda a tu pareja, familiares, amistades u otra persona cercana para evitar que te puedas sentir aún peor.
 
 
-> Para saber qué tipo de medidas se pueden aplicar puedes pedir más información al departamento de recursos humanos o puedes llamarnos [link ACCU] y explicarnos tu caso. En ACCU podemos asesorarte sobre la ley de protección de riesgos laborales, adaptaciones del puesto de trabajo y sobre [cómo solicitar y sacarle el máximo partido al reconocimiento de la discapacidad y a los diferentes tipos de incapacidades](https://accuesp.com/convenio-con-la-consultoria-legal-fidelitis). 
+> Para saber qué tipo de medidas se pueden aplicar puedes pedir más información al departamento de recursos humanos o puedes llamarnos al [915426326]((tel:+34915426326)) y explicarnos tu caso. En ACCU podemos asesorarte sobre la ley de protección de riesgos laborales, adaptaciones del puesto de trabajo y sobre [cómo solicitar y sacarle el máximo partido al reconocimiento de la discapacidad y a los diferentes tipos de incapacidades](https://accuesp.com/convenio-con-la-consultoria-legal-fidelitis).  
 
 
   <!-- Begin Mailchimp Signup Form -->
