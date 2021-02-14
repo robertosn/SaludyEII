@@ -7,7 +7,7 @@ description: consejos para hacer deporte y actividad física con crohn y colitis
 featuredImage: /assets/yoga-3053488_1280.jpg
 ---
 
-Es importante mantenerse también activos aunque tengamos el diagnóstico de un crohn o una colitis ulcerosa. Sin embargo, es importante que aprendas qué actividades son las que encajan mejor según el estado de tu enfermedad (activa o en remisión) y los síntomas que estás experimentando. Practicar actividad física mejora la digestión, ayuda a mantener un peso saludable, aporta sensaciones de bienestar y reducir el estrés y la depresión. Es decir, aporta muchos beneficios físicos y psicológicos <sup>1-4</sup>. 
+Es importante mantenerse activos incluso si nos han diagnósticado crohn o una colitis ulcerosa. Sin embargo, es importante que conocer qué actividades son las que encajan mejor según el estado de tu enfermedad (activa o en remisión) y los síntomas que estás experimentando. Practicar actividad física mejora la digestión, ayuda a mantener un peso saludable, aporta sensaciones de bienestar y reducir el estrés y la depresión. Es decir, aporta muchos beneficios físicos y psicológicos <sup>1-4</sup>. 
 
 Sigue estos consejos para beneficiarte lo máximo posible de la actividad física:
 
