@@ -149,7 +149,7 @@ De todos modos, te animamos a que le comentes a tu especialista-o nutricionista-
 </div>
 
 
-## Referencias
+#### Referencias
 <sub> 1. Owczarek D, et al. Diet and nutritional factors in inflammatory bowel diseases. World J Gastroenterol 2016; 22(3):895–905.</sub>
 
 <sub> 2. Crohn's and colitis foundation of America. Malnutrition and inflammatory bowel disease. Disponible en: https://www.crohnscolitisfoundation.org/diet-and-nutrition/malnutrition-and-ibd </sub>
