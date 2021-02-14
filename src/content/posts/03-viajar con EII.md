@@ -95,7 +95,7 @@ Es aconsejable que tengas una lista de tus medicamentos (apuntando tanto el nomb
 </form>
 </div>
 
-## Referencias "Viajar con EII 1 y 2"
+#### Referencias "Viajar con EII 1 y 2"
 
 <sub> 1. Crohn’s and Colitis UK. Travel and IBD. http://www.crohnsandcolitis.org.uk/about-inflammatory-bowel-disease/publications/travel-ibd [Accessed Feb 2016]. </sub>
 

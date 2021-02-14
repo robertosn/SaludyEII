@@ -117,7 +117,7 @@ Si tú también te sientes así, debes saber que existen diferentes estrategias 
 </form>
 </div>
 
-## Referencias
+#### Referencias
 
 <sub> 1.	Keeton RL, et al. Concerns and worries in people living with inflammatory bowel disease (IBD): A mixed methods study. J Psychosom Res 2015; 78(6):573–8. </sub>
 

@@ -47,7 +47,7 @@ Un aspecto positivo es que algunos factores pueden influir en la forma en la que
 </form>
 </div>
 
-## Referencias
+#### Referencias
 
 <sub>1. Eglinton TW, Barclay ML, Gearry RB, Frizelle FA. The spectrum of perianal Crohn’s disease in a population-based cohort. Dis Colon Rectum. 2012;55:773–7.</sub>
 

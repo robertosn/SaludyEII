@@ -74,7 +74,7 @@ Intenta entrenar en un sitio que tenga fácil acceso a un baño cercano antes de
 </form>
 </div>
 
-## Referencias
+#### Referencias
 
 <sub>1. Siffledeen JS, et al. Bones and Crohn’s: Risk factors associated with low bone mineral density in patients with Crohn’s disease. Inflamm Bowel Dis 2004; 10:220–28.</sub>
 
