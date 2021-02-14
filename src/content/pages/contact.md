@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: ¿Dudas?
+title: ¿Dudas? ¿Necesitas una cita?
 ---
 
-Déjanos un mensaje. Te contestaremos en cuanto lo leamos.
+Déjanos un mensaje. El personal de [ACCU España](https://accuesp.com) te contestará en cuanto lo lea.
