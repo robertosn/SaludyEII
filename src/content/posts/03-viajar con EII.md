@@ -74,51 +74,6 @@ Lleva contigo una cantidad extra de tus medicamentos, por si la vuelta del viaje
 
 Es aconsejable que tengas una lista de tus medicamentos (apuntando tanto el nombre comercial como el nombre del principio activo), en caso de que necesites ir a urgencias.
 
-#### Revisa las vacunas
-
-![](https://cdn.pixabay.com/photo/2017/01/12/13/13/syringe-1974677_1280.jpg "osito vacunado")
-
-Puede que tengas que vacunarte para poder viajar a algunos países. Hay vacunas que se tienen que poner hasta 2 o 3 meses antes de viajar <sup>1,5,6</sup>. Así que es importante que te informes con antelación sobre qué vacunas te tienes que poner y si las puedes recibir.
-
-Algunos medicamentos para la enfermedad de Crohn y la colitis ulcerosa son inmunosupresores. Las personas que toman estos medicamentos no pueden recibir algunas vacunas (por ejemplo, las de virus vivos durante los periodos de inmunosupresión) <sup>5,6</sup>. Si dejas de tomar terapias inmunosupresoras 3 o 4 meses antes de la fecha de vacunación, es probable que puedas vacunarte. De la misma manera, si te has vacunado recientemente, es aconsejable que esperes un mínimo de tres semanas antes de volver a empezar la terapia inmunosupresora <sup>6</sup>..
-
-Contacta con tu especialista antes de organizar el viaje para que podáis analizar tu caso juntos y establecer eventuales cambios en tu tratamiento. 
-
-#### Evita las picaduras de mosquitos
-
-Si viajas a zonas tropicales y subtropicales tienes que saber que muchas de las enfermedades transmitidas por picaduras o mordeduras de mosquitos e insectos se pueden prevenir aplicando medidas de protección, como:
-
-- ponerse camisetas de manga larga y pantalones largos <sup>7</sup>.
-
-- vestir ropa de color claro <sup>7</sup>.
-
-- aplicarse repelentes de insectos <sup>7</sup>. Estos repelentes son eficaces contra los insectos que pican, pero no de los insectos con aguijón (avispas, abejas y algunas hormigas). Consulta el [Plan nacional de preparación y respuesta frente a enfermedades transmitidas por vectores<sup>7</sup>](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/DocsZika/Plan_Nac_enf_vectores_20160720_sin_CC.pdf) del Ministerio de Sanidad, Servicios sociales e Igualdad, para saber qué tipos de repelentes son más eficaces y las recomendaciones para su uso seguro. 
-
-- evitar jabones aromatizados y perfumes <sup>7</sup>.
-
-- poner el aire acondicionado para mantener fuera de la habitación mosquitos y otros insectos <sup>7</sup>.  
-
-
-#### Elige un alojamiento adecuado
-
-Cuando reserves un alojamiento, pregunta sobre la accesibilidad a los servicios.
-
- Si es posible, organízate para tener un baño privado o asegúrate de que esté cerca de tu habitación. Si tus medicamentos necesitan refrigeración, asegúrate de que tendrás acceso a una nevera, a ser posible en tu habitación.
-
-#### Evita la diarrea del viajero
-
-La diarrea del viajero suele ser causada por bacterias o virus que se encuentran en aguas contaminadas. Es algo que ocurre con frecuencia al 20-60% de las personas que viajan a países en desarrollo <sup>8</sup>.
-
-Para reducir las posibilidades de desarrollar la diarrea del viajero bebe siempre agua embotellada o hervida y sin hielo <sup>9</sup>. Y asegúrate de que todos los alimentos estén bien cocinados. Evita por ello comer helados, verduras crudas y ensaladas. También el pescado y la carne cruda <sup>9</sup>.
-
-Por lo demás, lávate frecuentemente las manos con agua y jabón. 
-
-#### Evita las quemaduras y la deshidratación
-
-Algunos medicamentos inmunosupresores, como la azatioprina o los biológicos, causan una mayor sensibilidad de la piel al sol <sup>1</sup>. Por esta razón es fundamental que te eches siempre crema solar con protección SPF 50 -o superior- para reducir los daños causados por los rayos del sol.
-
-Para evitar la deshidratación bebe mucha agua o suero oral. Los signos de deshidratación incluyen: sed, orina oscura y poco frecuente, dolor de cabeza y apatía<sup>1</sup>.
-
 
   <!-- Begin Mailchimp Signup Form -->
 
