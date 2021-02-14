@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Viajar con EII
-slug: /plant/bud
+slug: /viajar_con_eii
 date: 2020-07-01 12:37
 description: consejos para viajar con EII
 featuredImage: /assets/airport-690556_1280.jpg
