@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Hablar de la EII
-slug: /hablar-de-la-eii
+title: Hablar de la EII con la familia
+slug: /hablar-de-la-eii_con_la_familia
 date: 2020-05-01 23:40
 description: Hablar del crohn y la colitis ulcerosa 
 featuredImage: /assets/holiday-123849_1280.jpg
@@ -51,35 +51,6 @@ Por otro lado, los niños y niñas mayores entenderán más sobre la enfermedad 
 
 Durante un brote o en los días en los que sientes que tienes pocas energías, intenta hacer actividades tranquilas con ellos como dibujar, pintar o jugar a juegos de mesa. Si sientes que no tienes fuerzas, pide ayuda a tu pareja, familiares, amistades u otra persona cercana para evitar que te puedas sentir aún peor.
 
-### A las amistades
-
-Si solías pasar mucho tiempo con tus amigos y amigas durante el fin de semana y ves que ahora tienes que renunciar a participar en diferentes actividades debido a la enfermedad, puede que necesites contarles que tienes una EII, si todavía no lo saben. Y que esto no significa tener que renunciar a tu vida social... sino entender los momentos. Así que no te olvides que las amistades existen también para dar y recibir apoyo cuando nos vienen mal dadas. Habla claro con tu entorno para que puedan entender exactamente qué te pasa y adaptar en la medida de lo posible los planes a lo que tú también necesitas. 
-
-- Explícales qué es tu EII y cómo te afecta.
-
-- Habla sobre tus preocupaciones a la hora de participar en algunas actividades.
-
-- Cuéntales las dificultades que puedes tener a la hora de hacer actividades específicas, debidas a la necesidad de utilizar a menudo el servicio o a los síntomas que puedas estar teniendo.
-
-Algunos ejemplos de cómo podrías decirlo serían:
-
-- “Últimamente no he salido mucho y parece que siempre he encontrado excusas para evitaros y no salir con vosotros. Sin embargo, las cosas no son como parecen. Me han diagnosticado la enfermedad de Crohn y me está costando salir de casa si no sé que voy a disponer de un baño cerca de donde vayamos a estar”
-
-- “Me gustaría muchísimo ir con vosotros a [actividad] pero tengo crohn, una enfermedad cuyos síntomas no me están permitiendo hacer todo lo que hacía antes. Ahora mismo tengo dolor abdominal, diarrea y me siento sin fuerzas la mayor parte del día [Link al modulo Fatiga]].<sup>2,3</sup>.
-
-- “Tomo medicamentos para controlar la enfermedad, pero no es fácil predecir lo que pasará, así es posible que no me sienta bien algunos días y necesite descansar”<sup>2</sup>.
-
-- “Teniendo la enfermedad de Crohn puede que esté muy cansado, por eso a veces no tengo tanta energía como los demás.” <sup>2</sup>.
-
-- “Ahora mismo tengo miedo a salir porque necesito tener la seguridad de que hay un baño disponible cerca de donde vamos. Si no lo hay, para mí es difícil poder ir.”
-
-- “Desde que tengo colitis ulcerosa, tengo que evitar de comer algunos alimentos porque me sientan fatal. Para evitar eventuales problemas, traeré mi comida.”
-
-### En el trabajo
-
-La EII puede tener un impacto en tu trabajo y en tu carrera profesional. Así que es normal que sientas preocupación si necesitas decir a tu jefe que te han diagnosticado crohn o colitis ulcerosa y cómo te está o podría estar afectando a tu vida laboral.<sup>4</sup>.
-
-Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoco tendrán forma de saber en qué medida te afecta ni la ayuda que puedas necesitar. De ahí que debas valorar explicarles de alguna forma, sin que tengas que entrar en todos los detalles, qué te ocurre de cara a facilitar la búsqueda de soluciones<sup>1</sup>. Explícales qué es la enfermedad, cómo te afecta y cuáles son tus dificultades en el trabajo. 
 
 > Para saber qué tipo de medidas se pueden aplicar puedes pedir más información al departamento de recursos humanos o puedes llamarnos [link ACCU] y explicarnos tu caso. En ACCU podemos asesorarte sobre la ley de protección de riesgos laborales, adaptaciones del puesto de trabajo y sobre [cómo solicitar y sacarle el máximo partido al reconocimiento de la discapacidad y a los diferentes tipos de incapacidades](https://accuesp.com/convenio-con-la-consultoria-legal-fidelitis). 
 
@@ -104,7 +75,7 @@ Si tus compañeros, compañeras y superiores no saben de tu enfermedad... tampoc
 </form>
 </div>
 
-#### Referencias
+#### Referencias "Hablar de la EII 1 y 2"
 
 <sub> 1. The Crohn’s Colitis Effect. Whoa… should I really be talking about IBD? http://cceffect.org/should-i-really-be-talkingabout-ibd/ [Accessed March 2016].</sub>
 
