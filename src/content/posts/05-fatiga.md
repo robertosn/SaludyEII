@@ -21,7 +21,7 @@ De hecho, varios estudios evidencian que la sienten el 25% de las personas reci�
 
 La fatiga puede depender de muchas causas. Por esta razón, afrontar y reducir la fatiga son procesos muy personales: lo que funciona en algunas personas no siempre funciona en otras. Empieza con intentar averiguar que puede estar provocando tu fatiga. En la siguiente figura puedes encontrar las causas más comunes. 
 
-![](/Fatiga1.jpg)
+![](/assets/Fatiga1.jpg)
 
 Es importante que aprendas a conocerte mejor para saber lo que puede desencadenar (o aliviar) tu fatiga. En concreto, varios factores pueden facilitar su aparición: dolor, trastornos del sueño, malnutrición o una enfermedad activa (brote). De la misma manera que también hay complicaciones que la empeoran: fístulas, estenosis, oclusiones, dolor crónico o infecciones <sup>1,2</sup>
 
